@@ -1,0 +1,18 @@
+modLoader="javafml"
+loaderVersion="[35,)"
+license="All rights reserved"
+
+[[mods]]
+modId="tascccmod"
+version="1.0"
+displayName="Cora's Corroborative Content"
+# displayURL="http://example.com/"
+# logoFile="examplemod.png"
+credits="Thanks to TurtyWurty for his tutorial, and my friends for various suggestions."
+authors="TasThing"
+description='''
+This is a mod by TasThing (Cora Lynn) meant to work in tandem with the vanilla game to increase the content of Minecraft without feeling that much like a mod.
+Content is typically added in updates focusing on a specific area of the game, much like Mojang does (e.g. The Badlands Update).
+This mod is designed to be played on its own (or with minor other mods), so it shoudn't be a surprise if it's incompatible with other mods.
+(And I probably won't fix it if it is either.)
+'''

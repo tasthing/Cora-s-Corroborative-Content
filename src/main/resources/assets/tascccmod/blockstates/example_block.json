@@ -1,0 +1,5 @@
+{
+	"variants": {
+		"": { "model": "tascccmod:block/example_block" }
+	}
+}
